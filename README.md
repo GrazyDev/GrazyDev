@@ -1,6 +1,6 @@
 #Bem Vindos (a) ao meu repositório de idéias.
 
-- 💻 Trabalho  Atualmente em busca da minha primeira oportunidade na área.
+- 💻 Trabalho : Atualmente busco minha primeira  oportunidade na área.
 - 🕮 Estudando: MRV Fullstack Developer (DIO)
 - 📥 Entre em contato comigo pelo E-mail: grazydev@gmail.com 
 
