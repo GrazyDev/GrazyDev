@@ -8,6 +8,8 @@
   <a href="https://github.com/GrazyDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrazyDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazyDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" alt="Grazy-pic" height="150" style="border-radius:50%;" src="md/grazy.png">
+
 </div>
 
 <div style="display: inline_block"><br>
